@@ -4,6 +4,12 @@ This is a project showcasing the classic deep learning project using the [OpenMM
 
 # Project Description
 
+## Ear-Keypoints-Detection
+
+Installations\Demo\Training\Testing\Inference:
+
+[More Information](./Ear-Keypoints-Detection/README.md)
+
 ## Fruit-Classification
 
 Installations\Demo\Training\Testing\Inference:
